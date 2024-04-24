@@ -10,9 +10,12 @@ This repository contains a simple front-end replica of the Netflix landing page,
 
 ## Setup and Launch
 
+Try it live here: [Live demo]()
+
+or
+
 To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository to your local machine using:
- git clone [https://github.com/Ensve/netflix-landingpage-h21]
-
- Or try it live here: [Live demo]()
+ ```bash
+   git clone [https://github.com/Ensve/netflix-landingpage-h21]
