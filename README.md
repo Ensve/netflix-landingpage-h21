@@ -10,7 +10,7 @@ This repository contains a simple front-end replica of the Netflix landing page,
 
 ## Setup and Launch
 
-Try it live here: [Live demo]()
+Try it live here: [Live demo](https://ensve.github.io/netflix-landingpage-h21/)
 
 or
 
