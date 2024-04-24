@@ -1,0 +1,59 @@
+/* Navigasjonsbar */
+.topnav {
+    gap: 50px;
+    padding: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    width: 100vw;
+    height: 100px;
+    background-color: transparent;
+}
+
+/* Velg språk */
+.language {
+    margin-left: 10px;
+    font-size: 15px;
+    text-align: center;
+    height: 35px;
+    background-color: rgba(0, 0, 0, 0.493);
+    width: 100px;
+    color: white;
+    width: 150px;
+}
+
+.logo{
+    margin-left: 50px;
+    height: 70%;
+    width: auto;
+}
+
+.nav-list {
+    gap: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.topnav a {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.login_btn {
+    margin-right: 50px;
+    padding: 0px 0px 0px 0px;
+    border-radius: 3px;
+    width: 110px;
+    height: 35px;
+    cursor: pointer;
+    border: none;
+    background-color: #E50914;
+}
+/* Navigasjonsbar SLUTT */
