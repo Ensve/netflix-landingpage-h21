@@ -5,7 +5,7 @@ This repository contains a simple front-end replica of the Netflix landing page,
 ## Technologies Used
 
 - **HTML**: Structure of the web page.
-- **CSS**: Styling and layout of the web page, including flexbox and grid systems for responsive design.
+- **CSS**: Styling and layout of the web page, including flexbox.
 - **JavaScript**: Dynamically updating HTML and CSS, handling user interactions.
 
 ## Setup and Launch
